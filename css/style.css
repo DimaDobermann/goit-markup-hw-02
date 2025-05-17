@@ -18,15 +18,15 @@ body {
 .header-navigation {
 }
 .header-logo {
-  font-weight: 700;
-  font-size: 18px;
-  line-height: 1.16;
-  letter-spacing: 0.03em;
-  text-transform: uppercase;
-  color: #4d5ae5;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.16;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4d5ae5;
   font-family: "Raleway", sans-serif;
 }
-.Raleway {
+.raleway-logo {
   font-weight: 700;
   font-size: 18px;
   line-height: 1.16;
@@ -169,19 +169,19 @@ body {
   color: #4d5ae5;
   font-family: "Raleway", sans-serif;
 }
-.Raleway {
-  font-weight: 700;
-  font-size: 18px;
-  line-height: 1.17;
-  letter-spacing: 0.03em;
-  text-transform: uppercase;
-  color: #f4f4fd;
+.raleway {
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.16667;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #f4f4fd;
   font-family: "Raleway", sans-serif;
 }
 .footer-text {
-  font-weight: 400;
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-  color: #f4f4fd;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #f4f4fd;
 }
