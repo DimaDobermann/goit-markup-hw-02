@@ -11,6 +11,8 @@ address {
 }
 body {
   font-family: "Roboto", sans-serif;
+  color: #434455;
+  background-color: #ffffff;
 }
 
 .header {
@@ -148,6 +150,7 @@ body {
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
+  text-transform: capitalize
 }
 .card-text {
   font-weight: 400;
