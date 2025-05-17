@@ -80,10 +80,16 @@ body {
   line-height: 1.5;
   letter-spacing: 0.04em;
   color: #fff;
+  background: #4d5ae5;
+  cursor: pointer;
+}
+.button:hover {
+  background-color: #404bbf;
+}
+.button:focus {
+  background-color: #404bbf;
 }
 
-.features {
-}
 .features-list {
 }
 .features-item {
@@ -151,7 +157,6 @@ body {
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
- 
 }
 .card-text {
   font-weight: 400;
@@ -159,7 +164,7 @@ body {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
-  text-transform: capitalize
+  text-transform: capitalize;
 }
 
 .footer {
