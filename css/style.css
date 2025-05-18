@@ -32,10 +32,7 @@ body {
 .raleway-logo {
   color: #2e2f42;
 }
-.header-menu-list {
-}
-.header-menu-item {
-}
+
 .header-menu-link {
   font-weight: 500;
   font-size: 16px;
@@ -51,24 +48,6 @@ body {
   color: #404bbf;
 }
 
-.header-address {
-}
-
-.header-address-list {
-}
-
-.header-address-item {
-}
-.header-address-link {
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-  color: #434455;
-}
-
-.hero {
-}
-
 .hero-text {
   font-weight: 700;
   font-size: 56px;
@@ -76,7 +55,7 @@ body {
   letter-spacing: 0.02em;
   text-align: center;
   color: #fff;
-  background: #2e2f42;
+  background-color: #2e2f42;
 }
 .button {
   font-weight: 500;
@@ -96,10 +75,6 @@ body {
   background-color: #404bbf;
 }
 
-.features-list {
-}
-.features-item {
-}
 .features-subtitle {
   font-weight: 500;
   font-size: 20px;
@@ -115,19 +90,15 @@ body {
   color: #434455;
 }
 
-.our-team {
-}
 .team {
   font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
   letter-spacing: 0.02em;
   color: #2e2f42;
+  text-transform: capitalize;
 }
-.team-list {
-}
-.team-item {
-}
+
 .subtitle {
   font-weight: 500;
   font-size: 20px;
@@ -143,8 +114,6 @@ body {
   color: #434455;
 }
 
-.card {
-}
 .portfolio {
   font-weight: 700;
   font-size: 36px;
@@ -152,11 +121,9 @@ body {
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
+  text-transform: capitalize;
 }
-.card-list {
-}
-.card-item {
-}
+
 .card-subtitle {
   font-weight: 500;
   font-size: 20px;
