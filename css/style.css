@@ -71,12 +71,10 @@ body {
   color: #fff;
   background: #4d5ae5;
   cursor: pointer;
+  background-color: #2e2f42;
 }
 
-.button:hover {
-  background-color: #404bbf;
-}
-
+.button:hover,
 .button:focus {
   background-color: #404bbf;
 }
