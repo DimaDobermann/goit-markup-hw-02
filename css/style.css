@@ -120,6 +120,9 @@ body {
   color: #434455;
 }
 
+.card {
+  background-color: #f4f4fd;
+}
 .portfolio {
   font-weight: 700;
   font-size: 36px;
@@ -127,7 +130,6 @@ body {
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
-  text-transform: capitalize;
 }
 
 .card-subtitle {
