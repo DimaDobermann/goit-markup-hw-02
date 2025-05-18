@@ -124,8 +124,8 @@ body {
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
-  text-transform: capitalize;
-  background-color: #ffffff;
+  text-transform: capitaliz;
+  background-color: #f4f4fd;
 }
 
 .card-subtitle {
@@ -137,11 +137,11 @@ body {
   text-align: center;
 }
 .card-text {
-  font-weight: 400;
-  font-size: 16px;
+  font-weight: 500;
+  font-size: 20px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color: #434455;
+  color: #2e2f42;
   text-transform: capitalize;
   text-align: center;
 }
