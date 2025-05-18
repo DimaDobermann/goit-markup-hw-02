@@ -96,6 +96,10 @@ body {
   color: #434455;
 }
 
+.our-team {
+  background-color: #f4f4fd;
+}
+
 .team {
   font-weight: 700;
   font-size: 36px;
@@ -104,7 +108,7 @@ body {
   color: #2e2f42;
   text-transform: capitalize;
   text-align: center;
-  background-color: #f4f4fd;
+  background-color: #ffffff;
 }
 
 .team-subtitle {
