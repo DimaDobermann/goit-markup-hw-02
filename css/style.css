@@ -131,7 +131,6 @@ body {
   text-align: center;
   text-transform: capitalize;
   color: #2e2f42;
-  background-color: #f4f4fd;
 }
 
 .card-list {
@@ -147,6 +146,7 @@ body {
   letter-spacing: 0.02em;
   color: #2e2f42;
   text-align: center;
+  background-color: #f4f4fd;
 }
 
 .card-text {
@@ -156,6 +156,7 @@ body {
   letter-spacing: 0.02em;
   color: #434455;
   text-align: center;
+  background-color: #f4f4fd;
 }
 
 .footer {
